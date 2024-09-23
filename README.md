@@ -1,9 +1,13 @@
-# progressbar 
+# pappu-progressbarEchoRP 
 
+* Cool Curved Lines
+* Responsive Design
+* Dependency for creating progressbars in QB-Core.
+
+  
 ## Screenshots 
 ![Group_5774](https://github.com/user-attachments/assets/0b327f48-3f50-40b9-b3cd-b01c620e8699)
 
- 
 ## Dependencies
 
 - [QBCore](https://github.com/qbcore-framework/qb-core)
