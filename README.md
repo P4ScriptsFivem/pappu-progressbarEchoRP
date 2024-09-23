@@ -1,12 +1,20 @@
 # pappu-progressbarEchoRP 
 
-* Cool Curved Lines
-* Responsive Design
-* Dependency for creating progressbars in QB-Core.
+## Features
+- Futuristic UI Design
+- Cool Curved Lines
+- Responsive Design
+- Colored Names.
 
   
 ## Screenshots 
 ![Group_5774](https://github.com/user-attachments/assets/0b327f48-3f50-40b9-b3cd-b01c620e8699)
+
+
+## Installation
+### Manual
+- Download the script and put it in the `[qb]` directory.
+- Add the following code to your server.cfg/resouces.cfg
 
 ## Dependencies
 
