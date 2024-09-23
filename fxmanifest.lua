@@ -3,7 +3,7 @@ game 'gta5'
 lua54 'yes'
 author 'Pappu'
 description 'QBCore progressbar And inspired by EchoRP'
-version '1.0.1'
+version '1.0.0'
 
 ui_page('nui/index.html') 
 
